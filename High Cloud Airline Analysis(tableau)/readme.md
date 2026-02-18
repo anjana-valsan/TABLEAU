@@ -12,4 +12,6 @@ The analysis focuses on:
 - Segmenting flight distribution by distance category to understand network structure
 
 The objective was to move beyond KPI tracking and enable deeper exploratory analysis of operational drivers affecting airline profitability and capacity planning.
+Backend KPI logic and aggregations were implemented using SQL prior to visualization. 
 
+🔗 [View Sql file](https://github.com/anjana-valsan/SQL/blob/main/HighCloudsAirline%20sql.sql)
