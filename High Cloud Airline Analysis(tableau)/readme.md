@@ -1,5 +1,6 @@
 ### ✈ High Cloud Airline – Performance & Route Analytics (Tableau)
 
+<img src="https://github.com/anjana-valsan/TABLEAU/blob/main/High%20Cloud%20Airline%20Analysis(tableau)/Screenshot%202026-02-18%20153817.png" width="99%">
 This dashboard was designed to analyze airline operational efficiency across carriers, routes, and distance categories using a multi-layered analytical approach.
 
 The analysis focuses on:
@@ -12,4 +13,3 @@ The analysis focuses on:
 
 The objective was to move beyond KPI tracking and enable deeper exploratory analysis of operational drivers affecting airline profitability and capacity planning.
 
-SQL was used for structured data preparation and KPI calculations prior to visualization.
